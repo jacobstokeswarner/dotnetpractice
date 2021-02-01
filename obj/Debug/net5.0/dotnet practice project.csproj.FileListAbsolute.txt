@@ -1,0 +1,16 @@
+/home/jacob/Documents/dotnet practice project/bin/Debug/net5.0/dotnet practice project
+/home/jacob/Documents/dotnet practice project/bin/Debug/net5.0/dotnet practice project.deps.json
+/home/jacob/Documents/dotnet practice project/bin/Debug/net5.0/dotnet practice project.runtimeconfig.json
+/home/jacob/Documents/dotnet practice project/bin/Debug/net5.0/dotnet practice project.runtimeconfig.dev.json
+/home/jacob/Documents/dotnet practice project/bin/Debug/net5.0/dotnet practice project.dll
+/home/jacob/Documents/dotnet practice project/bin/Debug/net5.0/ref/dotnet practice project.dll
+/home/jacob/Documents/dotnet practice project/bin/Debug/net5.0/dotnet practice project.pdb
+/home/jacob/Documents/dotnet practice project/obj/Debug/net5.0/dotnet practice project.csprojAssemblyReference.cache
+/home/jacob/Documents/dotnet practice project/obj/Debug/net5.0/dotnet practice project.GeneratedMSBuildEditorConfig.editorconfig
+/home/jacob/Documents/dotnet practice project/obj/Debug/net5.0/dotnet practice project.AssemblyInfoInputs.cache
+/home/jacob/Documents/dotnet practice project/obj/Debug/net5.0/dotnet practice project.AssemblyInfo.cs
+/home/jacob/Documents/dotnet practice project/obj/Debug/net5.0/dotnet practice project.csproj.CoreCompileInputs.cache
+/home/jacob/Documents/dotnet practice project/obj/Debug/net5.0/dotnet practice project.dll
+/home/jacob/Documents/dotnet practice project/obj/Debug/net5.0/ref/dotnet practice project.dll
+/home/jacob/Documents/dotnet practice project/obj/Debug/net5.0/dotnet practice project.pdb
+/home/jacob/Documents/dotnet practice project/obj/Debug/net5.0/dotnet practice project.genruntimeconfig.cache
